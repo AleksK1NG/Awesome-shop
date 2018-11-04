@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+*.log
+haters/
+.next/
+.build/
+layout.md
+variables.env
+.eslintrc
+.idea/misc.xml
+.idea/modules.xml
+.idea/react_sick_shop.iml
+.idea/workspace.xml

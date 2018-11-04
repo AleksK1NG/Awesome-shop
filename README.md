@@ -1,0 +1,1 @@
+React, GraphQL, Apollo Boost, GraphQl  Yoga Prisma
